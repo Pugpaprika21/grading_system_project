@@ -1,0 +1,37 @@
+nav {
+    background-color: #6D76F5;
+}
+
+body {
+    font-family: 'Mitr', sans-serif;
+    background-color: #F7F5FC;
+}
+
+.modal-header {
+    color: white;
+    background-color: #6D76F5;
+}
+
+#bg-a {
+    color: white;
+    background-color: #6D76F5;
+}
+
+img {
+    border-radius: 50%;
+    height: 120px;
+}
+
+.table-bg {
+    color: #F7F5FC;
+    background-color: #6D76F5;
+}
+
+#myTable_filter {
+    margin-bottom: 15px;
+}
+
+#myTable_paginate,
+#myTable_info {
+    margin-top: 10px;
+}

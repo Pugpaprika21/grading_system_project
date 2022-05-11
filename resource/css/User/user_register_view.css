@@ -1,0 +1,22 @@
+nav {
+    background-color: #6D76F5;
+}
+
+body {
+    font-family: 'Mitr', sans-serif;
+    background-color: #F7F5FC;
+}
+
+img {
+    border-radius: 40%;
+    height: 100px;
+}
+
+#card-register {
+    margin-top: 15px;
+    width: 80rem;
+}
+
+#btn-register {
+    width: 100%;
+}

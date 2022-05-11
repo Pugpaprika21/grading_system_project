@@ -1,0 +1,62 @@
+nav {
+    background-color: #6D76F5;
+}
+
+body {
+    font-family: 'Mitr', sans-serif;
+    background-color: #F7F5FC;
+}
+
+img {
+    border-radius: 40%;
+    height: 100px;
+}
+
+#tbl-detail {
+    font-size: small;
+}
+
+input {
+    margin-top: 30px;
+}
+
+.form-select {
+    margin-top: 30px;
+}
+
+#btn-cal-avg-grade {
+    margin-top: 30px;
+    width: 100%;
+}
+
+#tbl-bg,
+#list-header-bg {
+    color: #FFFFFF;
+    background-color: #6D76F5;
+}
+
+#table-show-course-name {
+    background-color: #FFFFFF;
+    font-size: 12px;
+}
+
+#tbl-detail-course-name {
+    font-size: 15px;
+}
+
+#btn-see-course-name,
+#btn-cal-avg-grade {
+    font-size: 12px;
+    margin-top: 5px;
+    width: 100%;
+}
+
+.modal-header {
+    color: #FFFFFF;
+    background-color: #6D76F5;
+}
+
+#btn-submit {
+    margin-top: 160px;
+    width: 100%;
+}

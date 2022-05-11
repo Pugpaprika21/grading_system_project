@@ -1,0 +1,38 @@
+nav {
+    background-color: #6D76F5;
+}
+
+body {
+    font-family: 'Mitr', sans-serif;
+    background-color: #F7F5FC;
+}
+
+#search-student {
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+.table-bg {
+    color: #F7F5FC;
+    background-color: #6D76F5;
+}
+
+.modal-header {
+    background-color: #6D76F5;
+    color: white;
+}
+
+#myTable_filter {
+    margin-bottom: 15px;
+}
+
+#dropdown-action {
+    background-color: #6D76F5;
+    border: none;
+    color: white;
+}
+
+#myTable_paginate,
+#myTable_info {
+    margin-top: 10px;
+}

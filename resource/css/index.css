@@ -1,0 +1,12 @@
+.navbar {
+    background: rgba(179, 249, 92, 0.5);
+}
+
+#card-login {
+    margin-top: 100px;
+    width: 80rem;
+}
+
+#btn-login {
+    width: 100%;
+}
